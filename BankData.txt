@@ -1,0 +1,12 @@
+=========== Bank 07/12/2023 ============
+1|Iryna World Bank|888-555-7777
+========Employees========
+1|iryna|manager|100000.0
+2|Mike|programmer|80000.0
+========Customers========
+1|Robert|bob@hotmail.com|INDIVIDUAL
+-----Customer Accounts----
+1|1737|CHECKING|20000.5
+2|Lana|lana@hotmail.com|BUSINESS
+-----Customer Accounts----
+2|7902|SAVING|50000.5
